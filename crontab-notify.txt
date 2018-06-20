@@ -1,0 +1,3 @@
+55 16 * * * export DISPLAY=:0 && /usr/bin/notify-send -t 300 '17:00' 'Go home' && /usr/bin/ffplay -loglevel 8 -nodisp -autoexit /usr/share/sounds/ubuntu/notifications/Mallet.ogg
+00 12 * * * export DISPLAY=:0 && /usr/bin/notify-send -t 300 '12:00' 'Reading' && /usr/bin/ffplay -loglevel 8 -nodisp -autoexit /usr/share/sounds/ubuntu/notifications/Mallet.ogg
+30 13 * * * export DISPLAY=:0 && /usr/bin/notify-send -t 300 '13:30' 'Back to work' && /usr/bin/ffplay -loglevel 8 -nodisp -autoexit /usr/share/sounds/ubuntu/notifications/Mallet.ogg
