@@ -25,7 +25,7 @@
   <li><img title="4x^2+7x-15" src="https://latex.codecogs.com/gif.latex?4x%5E2&plus;7x-15"/></li><br>
   <li><img title="a-b" src="https://latex.codecogs.com/gif.latex?a-b"/></li><br>
   <li><img title="4x^2+12x+9" src="https://latex.codecogs.com/gif.latex?4x%5E2&plus;12x&plus;9"/></li><br>
-  <li><img title="x^3+6x^2+12x+8" src="shttps://latex.codecogs.com/gif.latex?x%5E3&plus;6x%5E2&plus;12x&plus;8"/></li>
+  <li><img title="x^3+6x^2+12x+8" src="https://latex.codecogs.com/gif.latex?x%5E3&plus;6x%5E2&plus;12x&plus;8"/></li>
 </ol>
 
 ### 4
