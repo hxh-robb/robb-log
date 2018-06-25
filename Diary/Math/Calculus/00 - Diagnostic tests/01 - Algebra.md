@@ -78,11 +78,11 @@
 
 ## 10
 <ol type="a">
-  <li>False</li><br>
-  <li>True</li><br>
-  <li>False</li><br>
-  <li>False</li><br>
-  <li>False</li><br>
+  <li>False</li>
+  <li>True</li>
+  <li>False</li>
+  <li>False</li>
+  <li>False</li>
   <li>True</li>
 </ol>
 
