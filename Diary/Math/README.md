@@ -1,7 +1,7 @@
-# Review of trig functions
+# Review of trigonometrics
 
 TODO
 
-# Review of logarithm function
+# Review of logarithms
 
 TODO
