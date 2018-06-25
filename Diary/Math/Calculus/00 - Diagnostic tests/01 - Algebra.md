@@ -78,12 +78,12 @@
 
 ## 10
 <ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
+  <li>False</li><br>
+  <li>True</li><br>
+  <li>False</li><br>
+  <li>False</li><br>
+  <li>False</li><br>
+  <li>True</li>
 </ol>
 
 <!---
