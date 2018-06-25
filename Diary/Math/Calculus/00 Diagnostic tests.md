@@ -54,14 +54,19 @@
 
 ### 7
 <ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
+  <li><img title="(x+\frac{1}{2})^2+\frac{3}{4}" src="https://latex.codecogs.com/gif.latex?%28x&plus;%5Cfrac%7B1%7D%7B2%7D%29%5E2&plus;%5Cfrac%7B3%7D%7B4%7D"/></li><br>
+  <li><img title="2(x-3)^2-7" src="https://latex.codecogs.com/gif.latex?2%28x-3%29%5E2-7"/></li>
 </ol>
 
 ### 8
 <ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
+  <li><img title="x=6" src="https://latex.codecogs.com/gif.latex?x%3D6"/></li><br>
+  <li><img title="x=1" src="https://latex.codecogs.com/gif.latex?x%3D1"/></li><br>
+  <li><img title="x=4 \or\ x=-3" src="https://latex.codecogs.com/gif.latex?x%3D4%20%5Cor%5C%20x%3D-3"/></li><br>
+  <li><img title="x=-1\pm\frac{1}{\sqrt{2}}" src="https://latex.codecogs.com/gif.latex?x%3D-1%5Cpm%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D"/></li><br>
+  <li><img title="x=\pm2 \or\ x=\pm1" src="https://latex.codecogs.com/gif.latex?x%3D%5Cpm2%20%5Cor%5C%20x%3D%5Cpm1%7B%5Ccolor%7Bred%7D%28Incorrect%29%7D"/></li><br>
+  <li><img title="x=11 \or\ x=-3" src="https://latex.codecogs.com/gif.latex?x%3D11%20%5Cor%5C%20x%3D-3%7B%5Ccolor%7Bred%7D%28Incorrect%29%7D"/></li><br>
+  <li><img title="x=\frac{12}{5}" src="https://latex.codecogs.com/gif.latex?x%3D%5Cfrac%7B12%7D%7B5%7D"/></li>
 </ol>
 
 ### 9
@@ -76,28 +81,36 @@
   <li><img title="" src=""/></li>
 </ol>
 
+---
+
+# Trouble questions
+## Algebra
+### Simplify each expression. Write your answer without negative exponents.(P-xxvii:2c)
+![(\frac{3x^{\frac{3}{2}}y^3}{x^2y^{-\frac{1}{2}}})^{-2}](https://latex.codecogs.com/gif.latex?%28%5Cfrac%7B3x%5E%7B%5Cfrac%7B3%7D%7B2%7D%7Dy%5E3%7D%7Bx%5E2y%5E%7B-%5Cfrac%7B1%7D%7B2%7D%7D%7D%29%5E%7B-2%7D)
+### Factor each expression.(P-xxvii:4d)
+![x^4+27x](https://latex.codecogs.com/gif.latex?x%5E4&plus;27x)
+### Solve the equation. (Find only the real solutions.)(P-xxvii:7e,7f)
+![x^4-3x^2+2=0](https://latex.codecogs.com/gif.latex?x%5E4-3x%5E2&plus;2%3D0)
+![3|x-4|=10](https://latex.codecogs.com/gif.latex?3%7Cx-4%7C%3D10)
+
+---
+
+# Answers to Trouble questions
+
+
+
+<!---
+
 ### TODO
 <ol type="a">
   <li><img title="" src=""/></li><br>
   <li><img title="" src=""/></li>
 </ol>
 
----
+<li></li><br>
 
-# Trouble questions
-## Algebra
-### Simplify each expression. Write your answer without negative exponents.
-![(\frac{3x^{\frac{3}{2}}y^3}{x^2y^{-\frac{1}{2}}})^{-2}](https://latex.codecogs.com/gif.latex?%28%5Cfrac%7B3x%5E%7B%5Cfrac%7B3%7D%7B2%7D%7Dy%5E3%7D%7Bx%5E2y%5E%7B-%5Cfrac%7B1%7D%7B2%7D%7D%7D%29%5E%7B-2%7D)
-### Factor each expression.
-![x^4+27x](https://latex.codecogs.com/gif.latex?x%5E4&plus;27x)
+<li><img title="" src=""/></li><br>
 
-TODO
+%7B%5Ccolor%7Bred%7D%28Incorrect%29%7D
 
----
-
-# Answers to Trouble questions
-
-TODO
-
-[//]: # (<li></li><br>)
-[//]: # (<li><img title="" src=""/></li><br>)
+--->
