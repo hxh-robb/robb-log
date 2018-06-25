@@ -16,7 +16,7 @@
 <ol type="a">
   <li><img title="6\sqrt{2}" src="https://latex.codecogs.com/gif.latex?6%5Csqrt%7B2%7D"/></li><br>
   <li><img title="48a^5b^7" src="https://latex.codecogs.com/gif.latex?48a%5E5b%5E7"/></li><br>
-  <li><img title="\frac{x}{3y^\frac{5}{2}}" src="https://latex.codecogs.com/gif.latex?%5Cfrac%7Bx%7D%7B3y%5E%5Cfrac%7B5%7D%7B2%7D%7D"/></li>
+  <li><img title="\frac{x}{3y^\frac{5}{2}}" src="https://latex.codecogs.com/gif.latex?%5Cfrac%7Bx%7D%7B3y%5E%5Cfrac%7B5%7D%7B2%7D%7D%7B%5Ccolor%7Bred%7D%28Incorrect%29%7D"/></li>
 </ol>
 
 ### 3
