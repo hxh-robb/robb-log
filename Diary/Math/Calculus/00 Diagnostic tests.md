@@ -33,7 +33,7 @@
   <li><img title="(2x+5)(2x-5)" src="https://latex.codecogs.com/gif.latex?%282x&plus;5%29%282x-5%29"/></li><br>
   <li><img title="(2x-3)(x+4)" src="https://latex.codecogs.com/gif.latex?%282x-3%29%28x&plus;4%29"/></li><br>
   <li><img title="(x+2)(x-2)(x-3)" src="https://latex.codecogs.com/gif.latex?%28x&plus;2%29%28x-2%29%28x-3%29"/></li><br>
-  <li><img title="x(x^3+27)" src="https://latex.codecogs.com/gif.latex?x%28x%5E3&plus;27%29"/></li><br>
+  <li><img title="x(x^3+27)" src="https://latex.codecogs.com/gif.latex?x%28x%5E3&plus;27%29%7B%5Ccolor%7Bred%7D%28Incorrect%29%7D"/></li><br>
   <li><img title="\frac{3}{\sqrt{x}}(x-1)(x-2)" src="https://latex.codecogs.com/gif.latex?%5Cfrac%7B3%7D%7B%5Csqrt%7Bx%7D%7D%28x-1%29%28x-2%29"/></li><br>
   <li><img title="xy(x+2)(x-2)" src="https://latex.codecogs.com/gif.latex?xy%28x&plus;2%29%28x-2%29"/></li>
 </ol>
@@ -47,6 +47,30 @@
 </ol>
 
 ### 6
+<ol type="a">
+  <li><img title="5\sqrt{2}+2\sqrt{10}" src="https://latex.codecogs.com/gif.latex?5%5Csqrt%7B2%7D&plus;2%5Csqrt%7B10%7D"/></li><br>
+  <li><img title="\frac{1}{\sqrt{4+h}+2}" src="https://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7B%5Csqrt%7B4&plus;h%7D&plus;2%7D"/></li>
+</ol>
+
+### 7
+<ol type="a">
+  <li><img title="" src=""/></li><br>
+  <li><img title="" src=""/></li>
+</ol>
+
+### 8
+<ol type="a">
+  <li><img title="" src=""/></li><br>
+  <li><img title="" src=""/></li>
+</ol>
+
+### 9
+<ol type="a">
+  <li><img title="" src=""/></li><br>
+  <li><img title="" src=""/></li>
+</ol>
+
+### 10
 <ol type="a">
   <li><img title="" src=""/></li><br>
   <li><img title="" src=""/></li>
@@ -62,7 +86,10 @@
 
 # Trouble questions
 ## Algebra
+### Simplify each expression. Write your answer without negative exponents.
 ![(\frac{3x^{\frac{3}{2}}y^3}{x^2y^{-\frac{1}{2}}})^{-2}](https://latex.codecogs.com/gif.latex?%28%5Cfrac%7B3x%5E%7B%5Cfrac%7B3%7D%7B2%7D%7Dy%5E3%7D%7Bx%5E2y%5E%7B-%5Cfrac%7B1%7D%7B2%7D%7D%7D%29%5E%7B-2%7D)
+### Factor each expression.
+![x^4+27x](https://latex.codecogs.com/gif.latex?x%5E4&plus;27x)
 
 TODO
 
