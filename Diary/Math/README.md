@@ -1,7 +1,7 @@
-# Review of trigonometrics
+# Review of Trigonometrics
 
 TODO
 
-# Review of logarithms
+# Review of Logarithms
 
 TODO
