@@ -5,18 +5,16 @@
   <li><img title="y=-3x+1" src="https://latex.codecogs.com/gif.latex?y%3D-3x&plus;1"/></li><br>
   <li><img title="y=-5" src="https://latex.codecogs.com/gif.latex?y%3D-5"/></li><br>
   <li><img title="x=2" src="https://latex.codecogs.com/gif.latex?x%3D2"/></li><br>
-  <li><img title="y=-2x-1" src="https://latex.codecogs.com/gif.latex?y%3D-2x-1"/></li>
+  <li><img title="y=\frac{1}{2}x-6" src="https://latex.codecogs.com/gif.latex?y%3D%5Cfrac%7B1%7D%7B2%7Dx-6"/></li>
 </ol>
 
 ## 2
-<ol type="a">
-  <li><img title="" src=""/></li>
-</ol>
+
+* ![(x+1)^2+(y-4)^2=52](https://latex.codecogs.com/gif.latex?%28x&plus;1%29%5E2&plus;%28y-4%29%5E2%3D52)
 
 ## 3
-<ol type="a">
-  <li><img title="" src=""/></li>
-</ol>
+
+* ![center=(3,-5)\ radius=5](https://latex.codecogs.com/gif.latex?%5C%5C%20center%3D%283%2C-5%29%20%5C%5C%20radius%3D5)
 
 ## 4
 <ol type="a">
@@ -50,10 +48,10 @@
 
 <li><img title="" src=""/></li><br>
 
-%7B%5Ccolor%7Bred%7D%28Incorrect%29%7D
+%5C%20%7B%5Ccolor%7Bred%7D%28Incorrect%29%7D
 
-{\color{red}Incorrect}
+\ {\color{red}Incorrect}
 
- ![]()
+![]()
 
 --->
