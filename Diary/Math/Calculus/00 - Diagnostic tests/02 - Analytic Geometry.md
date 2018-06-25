@@ -18,15 +18,18 @@
 
 ## 4
 <ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
+  <li><img title="-\frac{4}{3}" src="https://latex.codecogs.com/gif.latex?-%5Cfrac%7B4%7D%7B3%7D"/></li><br>
+  <li><img title="y=-\frac{4}{3}x-\frac{16}{3}" src="https://latex.codecogs.com/gif.latex?%5C%5C%20y%3D-%5Cfrac%7B4%7D%7B3%7Dx-%5Cfrac%7B16%7D%7B3%7D%20%5C%5C%20%5C%5C%20x-intercept%3D%28-4%2C0%29%20%5C%5C%20%5C%5C%20y-intercept%3D%280%2C-%5Cfrac%7B16%7D%7B3%7D%29"/></li><br>
+  <li><img title="(-1,-4)" src="https://latex.codecogs.com/gif.latex?%28-1%2C-4%29"/></li><br>
+  <li><img title="20" src="https://latex.codecogs.com/gif.latex?20"/></li><br>
+  <li><img title="y=\frac{3}{4}x-\frac{13}{4}" src="https://latex.codecogs.com/gif.latex?y%3D%5Cfrac%7B3%7D%7B4%7Dx-%5Cfrac%7B13%7D%7B4%7D"/></li><br>
+  <li><img title="(x+1)^2+(y+4)^2=100" src="https://latex.codecogs.com/gif.latex?%28x&plus;1%29%5E2&plus;%28y&plus;4%29%5E2%3D100"/></li>
 </ol>
 
 ## 5
+
+TODO
+
 <ol type="a">
   <li><img title="" src=""/></li><br>
   <li><img title="" src=""/></li><br>
