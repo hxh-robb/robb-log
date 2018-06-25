@@ -71,12 +71,19 @@
 
 ### 9
 <ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
+  <li><img src="https://latex.codecogs.com/gif.latex?3>x\geq-4" title="3>x\geq-4" /></li><br>
+  <li><img src="https://latex.codecogs.com/gif.latex?4>x>-2" title="4>x>-2" /></li><br>
+  <li><img src="https://latex.codecogs.com/gif.latex?x>1&space;\or\&space;0>x\geq-2" title="x>1 \or\ 0>x\geq-2" /></li><br>
+  <li><img src="https://latex.codecogs.com/gif.latex?7>x>1" title="7>x>1" /></li><br>
+  <li><img src="https://latex.codecogs.com/gif.latex?-1<x<4" title="-1<x<4" /></li>
 </ol>
 
 ### 10
 <ol type="a">
+  <li><img title="" src=""/></li><br>
+  <li><img title="" src=""/></li><br>
+  <li><img title="" src=""/></li><br>
+  <li><img title="" src=""/></li><br>
   <li><img title="" src=""/></li><br>
   <li><img title="" src=""/></li>
 </ol>
@@ -85,18 +92,21 @@
 
 # Trouble questions
 ## Algebra
-### Simplify each expression. Write your answer without negative exponents.(P-xxvii:2c)
-![(\frac{3x^{\frac{3}{2}}y^3}{x^2y^{-\frac{1}{2}}})^{-2}](https://latex.codecogs.com/gif.latex?%28%5Cfrac%7B3x%5E%7B%5Cfrac%7B3%7D%7B2%7D%7Dy%5E3%7D%7Bx%5E2y%5E%7B-%5Cfrac%7B1%7D%7B2%7D%7D%7D%29%5E%7B-2%7D)
-### Factor each expression.(P-xxvii:4d)
-![x^4+27x](https://latex.codecogs.com/gif.latex?x%5E4&plus;27x)
-### Solve the equation. (Find only the real solutions.)(P-xxvii:7e,7f)
-![x^4-3x^2+2=0](https://latex.codecogs.com/gif.latex?x%5E4-3x%5E2&plus;2%3D0)
-![3|x-4|=10](https://latex.codecogs.com/gif.latex?3%7Cx-4%7C%3D10)
+
+### Simplify each expression. Write your answer without negative exponents.
+(2c) ![(\frac{3x^{\frac{3}{2}}y^3}{x^2y^{-\frac{1}{2}}})^{-2}](https://latex.codecogs.com/gif.latex?%28%5Cfrac%7B3x%5E%7B%5Cfrac%7B3%7D%7B2%7D%7Dy%5E3%7D%7Bx%5E2y%5E%7B-%5Cfrac%7B1%7D%7B2%7D%7D%7D%29%5E%7B-2%7D)
+
+### Factor each expression.
+(4d) ![x^4+27x](https://latex.codecogs.com/gif.latex?x%5E4&plus;27x)
+
+### Solve the equation. (Find only the real solutions.)
+(7e) ![x^4-3x^2+2=0](https://latex.codecogs.com/gif.latex?x%5E4-3x%5E2&plus;2%3D0)
+
+(7f) ![3|x-4|=10](https://latex.codecogs.com/gif.latex?3%7Cx-4%7C%3D10)
 
 ---
 
 # Answers to Trouble questions
-
 
 
 <!---
