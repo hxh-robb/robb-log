@@ -3,7 +3,7 @@
 ## Algebra
 
 ### Simplify each expression. Write your answer without negative exponents.
-x=\frac{22}{3}\ or\ x=\frac{2}{3}
+
 * 2c
 
 ![(\frac{3x^{\frac{3}{2}}y^3}{x^2y^{-\frac{1}{2}}})^{-2}](https://latex.codecogs.com/gif.latex?%28%5Cfrac%7B3x%5E%7B%5Cfrac%7B3%7D%7B2%7D%7Dy%5E3%7D%7Bx%5E2y%5E%7B-%5Cfrac%7B1%7D%7B2%7D%7D%7D%29%5E%7B-2%7D)
