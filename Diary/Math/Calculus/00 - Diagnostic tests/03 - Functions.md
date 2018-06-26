@@ -26,13 +26,13 @@
 
 ## 5
 
-* ![DiagnosticTests_Functions_5_Answers_1](../pics/00_DiagnosticTests_Functions_5_Answers_1)
-* ![DiagnosticTests_Functions_5_Answers_2](../pics/00_DiagnosticTests_Functions_5_Answers_2)
+* ![DiagnosticTests_Functions_5_Answers_1](../pics/00_DiagnosticTests_Function_5_Answers_1.jpg)
+* ![DiagnosticTests_Functions_5_Answers_2](../pics/00_DiagnosticTests_Function_5_Answers_2.jpg)
 
 ## 6
 <ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
+  <li><img title="f(-2)=-3,\ f(1)=3" src="https://latex.codecogs.com/gif.latex?%5C%5C%20f%28-2%29%3D-3%20%5C%5C%20f%281%29%3D3"/></li><br>
+  <li><img title="DiagnosticTests_Functions_6b" src="../pics/00_DiagnosticTests_Function_6b_Answer.jpg"/></li>
 </ol>
 
 ## 7
