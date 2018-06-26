@@ -37,9 +37,9 @@
 
 ## 7
 <ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
+  <li><img title="4x^2-8x+2" src="https://latex.codecogs.com/gif.latex?4x%5E2-8x&plus;2"/></li><br>
+  <li><img title="2x^2+4x-5" src="https://latex.codecogs.com/gif.latex?2x%5E2&plus;4x-5"/></li><br>
+  <li><img title="8x-21" src="https://latex.codecogs.com/gif.latex?8x-21"/></li>
 </ol>
 
 <!---
