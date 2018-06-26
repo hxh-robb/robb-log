@@ -28,16 +28,7 @@
 
 ## 5
 
-* ![DiagnosticTests_AnalyticGeometry_5_Answers](../pics/00_DiagnosticTests_AnalyticGeometry_5.jpg)
-
-<ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
-</ol>
+* ![DiagnosticTests_AnalyticGeometry_5_Answers](../pics/00_DiagnosticTests_AnalyticGeometry_5_Answers.jpg)
 
 <!---
 

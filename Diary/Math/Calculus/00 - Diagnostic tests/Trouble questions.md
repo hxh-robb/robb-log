@@ -34,6 +34,16 @@
 
   ![\frac{2x-3}{x+1}\leq1](https://latex.codecogs.com/gif.latex?%5Cfrac%7B2x-3%7D%7Bx&plus;1%7D%5Cleq1)
 
+## Functions
+
+### Below is the graph of a function f
+
+![DiagnosticTests_Functions_1](../pics/00_DiagnosticTests_Functions_1.png)
+
+* 1c:For what values of x is f(x)=2?
+
+* 1d:Estimate the values of x such that f(x)=0.
+
 ---
 
 # Answers to Trouble questions
@@ -64,5 +74,18 @@
 * 9e
 
   ![(-1,4\]](https://latex.codecogs.com/gif.latex?%28-1%2C4%5D)
+
+</details>
+
+<details>
+<summary><strong>Functions</strong></summary>
+
+* 1c
+
+  ![]()
+
+* 1d
+
+  ![]()
 
 </details>
