@@ -44,6 +44,12 @@
 
 * 1d: **Estimate the values of x such that f(x)=0.**
 
+### Find the domain of the functions
+
+* 3c
+
+  ![h(x)=\sqrt{4-x}+\sqrt{x^2-1}](https://latex.codecogs.com/gif.latex?h%28x%29%3D%5Csqrt%7B4-x%7D&plus;%5Csqrt%7Bx%5E2-1%7D)
+
 ---
 
 # Answers to Trouble questions
@@ -87,5 +93,9 @@
 * 1d
 
   ![x\in\{-2.5,\ 0.3\},\ f(x)=0](https://latex.codecogs.com/gif.latex?x%5Cin%5C%7B-2.5%2C%5C%200.3%5C%7D%2C%5C%20f%28x%29%3D0)
+
+* 3c
+
+  ![\{x\in\mathbb{R}\ |\ 1\leq x\leq4 \ or\ x\leq-1\}](https://latex.codecogs.com/gif.latex?%5C%7Bx%5Cin%5Cmathbb%7BR%7D%5C%20%7C%5C%201%5Cleq%20x%5Cleq4%20%5C%20or%5C%20x%5Cleq-1%5C%7D)
 
 </details>

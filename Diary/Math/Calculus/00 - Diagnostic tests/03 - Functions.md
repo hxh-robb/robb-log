@@ -15,9 +15,9 @@
 
 ## 3
 <ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
+  <li><img title="\{x\in\mathbb{R}|x\neq-2,\ x\neq1\}" src="https://latex.codecogs.com/gif.latex?%5C%7Bx%5Cin%5Cmathbb%7BR%7D%7Cx%5Cneq-2%2C%5C%20x%5Cneq1%5C%7D"/></li><br>
+  <li><img title="\{x\in\mathbb{R}\}" src="https://latex.codecogs.com/gif.latex?%5C%7Bx%5Cin%5Cmathbb%7BR%7D%5C%7D"/></li><br>
+  <li><img title="\{x\in\mathbb{R}\ |\ 1<|x|<4\}" src="https://latex.codecogs.com/gif.latex?%5C%7Bx%5Cin%5Cmathbb%7BR%7D%5C%20%7C%5C%201%3C%7Cx%7C%3C4%5C%7D%5C%20%7B%5Ccolor%7Bred%7D%28Incorrect%29%7D"/></li>
 </ol>
 
 ## 4
