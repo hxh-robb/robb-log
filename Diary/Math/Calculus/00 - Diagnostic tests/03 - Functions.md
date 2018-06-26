@@ -11,7 +11,7 @@
 
 ## 2
 
-* TODO
+* ![f(h)=h^2+6h+12](https://latex.codecogs.com/gif.latex?f%28h%29%3Dh%5E2&plus;6h&plus;12)
 
 ## 3
 <ol type="a">
@@ -21,23 +21,12 @@
 </ol>
 
 ## 4
-<ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
-</ol>
+
+**PASS**
 
 ## 5
-<ol type="a">
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li><br>
-  <li><img title="" src=""/></li>
-</ol>
+
+* ![DiagnosticTests_Functions_5_Answers]()
 
 ## 6
 <ol type="a">
