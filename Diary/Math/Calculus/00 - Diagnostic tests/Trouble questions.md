@@ -40,9 +40,9 @@
 
 ![DiagnosticTests_Functions_1](../pics/00_DiagnosticTests_Functions_1.png)
 
-* 1c:For what values of x is f(x)=2?
+* 1c: **For what values of x is f(x)=2?**
 
-* 1d:Estimate the values of x such that f(x)=0.
+* 1d: **Estimate the values of x such that f(x)=0.**
 
 ---
 
@@ -82,10 +82,10 @@
 
 * 1c
 
-  ![]()
+  ![x\in\{-3,\ 1\},\ f(x)=2](https://latex.codecogs.com/gif.latex?x%5Cin%5C%7B-3%2C%5C%201%5C%7D%2C%5C%20f%28x%29%3D2)
 
 * 1d
 
-  ![]()
+  ![x\in\{-2.5,\ 0.3\},\ f(x)=0](https://latex.codecogs.com/gif.latex?x%5Cin%5C%7B-2.5%2C%5C%200.3%5C%7D%2C%5C%20f%28x%29%3D0)
 
 </details>
