@@ -50,6 +50,12 @@
 
   ![h(x)=\sqrt{4-x}+\sqrt{x^2-1}](https://latex.codecogs.com/gif.latex?h%28x%29%3D%5Csqrt%7B4-x%7D&plus;%5Csqrt%7Bx%5E2-1%7D)
 
+## Trigonometry
+
+### Find all values of x s.t.
+
+![sin2x=sinx,\ 0\leq x\leq 2\pi](https://latex.codecogs.com/gif.latex?sin2x%3Dsinx%2C%5C%200%5Cleq%20x%5Cleq%202%5Cpi)
+
 ---
 
 # Answers to Trouble questions
@@ -97,5 +103,14 @@
 * 3c
 
   ![\{x\in\mathbb{R}\ |\ 1\leq x\leq4 \ or\ x\leq-1\}](https://latex.codecogs.com/gif.latex?%5C%7Bx%5Cin%5Cmathbb%7BR%7D%5C%20%7C%5C%201%5Cleq%20x%5Cleq4%20%5C%20or%5C%20x%5Cleq-1%5C%7D)
+
+</details>
+
+<details>
+<summary><strong>Trigonometry</strong></summary>
+
+* 8
+
+  ![x\in\{0,\frac{\pi}{3},\pi,\frac{5\pi}{3},2\pi\}](https://latex.codecogs.com/gif.latex?x%5Cin%5C%7B0%2C%5Cfrac%7B%5Cpi%7D%7B3%7D%2C%5Cpi%2C%5Cfrac%7B5%5Cpi%7D%7B3%7D%2C2%5Cpi%5C%7D)
 
 </details>
