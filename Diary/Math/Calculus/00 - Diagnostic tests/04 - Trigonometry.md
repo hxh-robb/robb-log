@@ -43,7 +43,7 @@
 
 ## 9
 
-* ![DiagnosticTests_Functions_1](../pics/00_DiagnosticTests_Functions_9_Answer.jpg)
+* ![DiagnosticTests_Functions_1](../pics/00_DiagnosticTests_Trigonometry_9_Answer.jpg)
 
 <!---
 
