@@ -8,15 +8,15 @@
 
 ### 9
 
-![1.1_9](../pics/01_FunctionsAndModels_1.1Exercises_9.png)
+![1.1_9](../pics/01_FunctionsAndModels_1_1_9.png)
 
 ### 13
 
-![1.1_13](../pics/01_FunctionsAndModels_1.1Exercises_13.png)
+![1.1_13](../pics/01_FunctionsAndModels_1_1_13.png)
 
 ### 21
 
-![1.1_21](../pics/01_FunctionsAndModels_1.1Exercises_21.png)
+![1.1_21](../pics/01_FunctionsAndModels_1_1_21.png)
 
 ---
 
