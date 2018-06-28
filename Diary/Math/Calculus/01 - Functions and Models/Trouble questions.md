@@ -18,6 +18,19 @@
 
 ![1.1_21](../pics/01_FunctionsAndModels_1_1_21.png)
 
+### 25
+
+* f(a+1)
+![1.1_25](../pics/01_FunctionsAndModels_1_1_25.png)
+
+### 35, 37
+
+![1.1_31-37](../pics/01_FunctionsAndModels_1_1_31-37.png)
+
+### 43
+
+![1.1_43](../pics/01_FunctionsAndModels_1_1_43.png)
+
 ---
 
 # Answers to Trouble questions
@@ -38,6 +51,22 @@
   TODO
 
 * 21
+
+  TODO
+
+* 25
+
+  TODO
+
+* 35
+
+  TODO
+
+* 37
+
+  TODO
+
+* 43
 
   TODO
 
