@@ -20,7 +20,8 @@
 
 ### 25
 
-* f(a+1)
+* Find f(a+1)
+
 ![1.1_25](../pics/01_FunctionsAndModels_1_1_25.png)
 
 ### 35, 37
