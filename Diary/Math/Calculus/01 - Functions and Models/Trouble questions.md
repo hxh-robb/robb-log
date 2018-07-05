@@ -44,7 +44,17 @@
 
 ## 1.3 Exercise
 
-TODO
+### 1(e,f)
+
+![1.3_1](../pics/01_FunctionsAndModels_1_3_1.png)
+
+### 5(a,b)
+
+![1.3_5](../pics/01_FunctionsAndModels_1_3_5.png)
+
+### 21
+
+![1.3_9-24](../pics/01_FunctionsAndModels_1_3_9-24.png)
 
 ## 1.4 Exercise
 
