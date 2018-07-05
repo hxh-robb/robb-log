@@ -32,6 +32,24 @@
 
 ![1.1_43](../pics/01_FunctionsAndModels_1_1_43.png)
 
+## 1.2 Exercise
+
+### 5
+
+![1.2_5-6](../pics/01_FunctionsAndModels_1_2_5-6.png)
+
+### 7(b)
+
+![1.2_7](../pics/01_FunctionsAndModels_1_2_7.png)
+
+## 1.3 Exercise
+
+TODO
+
+## 1.4 Exercise
+
+TODO
+
 ---
 
 # Answers to Trouble questions
