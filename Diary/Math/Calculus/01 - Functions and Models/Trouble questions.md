@@ -90,3 +90,16 @@ TODO
   TODO
 
 </details>
+
+<details>
+<summary><strong>1.2 Exercises</strong></summary>
+
+* 5
+
+  TODO
+
+* 7b
+
+  TODO
+
+</details>

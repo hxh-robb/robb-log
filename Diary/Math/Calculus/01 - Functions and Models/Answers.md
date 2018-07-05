@@ -28,3 +28,13 @@
   <li><img title="FunctionsAndModels_1_2_31_Answer_a" src="../pics/01_FunctionsAndModels_1_2_31_Answer_a.jpg"/></li><br>
   <li><img title="FunctionsAndModels_1_2_31_Answer_b" src="../pics/01_FunctionsAndModels_1_2_31_Answer_b.jpg"/></li>
 </ol>
+
+# 1.3 Exercies
+ 
+## 5
+
+![FunctionsAndModels_1_3_5_Answer](../pics/01_FunctionsAndModels_1_3_5_Answer.png)
+ 
+## 9,13,17,21
+
+![FunctionsAndModels_1_3_9_13_17_21_Answer](../pics/01_FunctionsAndModels_1_3_9_13_17_21_Answer.png)
