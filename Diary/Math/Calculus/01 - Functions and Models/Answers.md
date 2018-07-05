@@ -46,3 +46,7 @@
 ## 59
 
 ![FunctionsAndModels_1_3_59_Answer](../pics/01_FunctionsAndModels_1_3_59_Answer.png)
+
+# 1.4 Exercises
+
+ TODO
