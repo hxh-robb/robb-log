@@ -113,3 +113,20 @@ TODO
   TODO
 
 </details>
+
+<details>
+<summary><strong>1.3 Exercises</strong></summary>
+
+* 1e,1f
+
+  TODO
+
+* 5a,5b
+
+  TODO
+
+* 21
+
+  TODO
+
+</details>

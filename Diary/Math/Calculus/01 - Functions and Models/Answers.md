@@ -42,3 +42,7 @@
 ## 29
 
 ![FunctionsAndModels_1_3_29_Answer](../pics/01_FunctionsAndModels_1_3_29_Answer.png)
+ 
+## 59
+
+![FunctionsAndModels_1_3_59_Answer](../pics/01_FunctionsAndModels_1_3_59_Answer.png)
