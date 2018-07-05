@@ -38,3 +38,7 @@
 ## 9,13,17,21
 
 ![FunctionsAndModels_1_3_9_13_17_21_Answer](../pics/01_FunctionsAndModels_1_3_9_13_17_21_Answer.png)
+ 
+## 29
+
+![FunctionsAndModels_1_3_29_Answer](../pics/01_FunctionsAndModels_1_3_29_Answer.png)
