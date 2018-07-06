@@ -59,6 +59,7 @@
 ![FunctionsAndModels_1_4_9_Answer-1](../pics/01_FunctionsAndModels_1_4_9_Answer-1.jpg)
 ![FunctionsAndModels_1_4_9_Answer-2](../pics/01_FunctionsAndModels_1_4_9_Answer-2.jpg)
 
-## 11
+## 11,13,15
 
+![FunctionsAndModels_1_4_11_13_15_Answer](../pics/01_FunctionsAndModels_1_4_11_13_15_Answer.png)
 
