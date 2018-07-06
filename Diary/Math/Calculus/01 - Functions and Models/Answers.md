@@ -49,4 +49,16 @@
 
 # 1.4 Exercises
 
- TODO
+## 7
+
+![FunctionsAndModels_1_4_7_Answer-1](../pics/01_FunctionsAndModels_1_4_7_Answer-1.jpg)
+![FunctionsAndModels_1_4_7_Answer-2](../pics/01_FunctionsAndModels_1_4_7_Answer-2.jpg)
+
+## 9
+
+![FunctionsAndModels_1_4_9_Answer-1](../pics/01_FunctionsAndModels_1_4_9_Answer-1.jpg)
+![FunctionsAndModels_1_4_9_Answer-2](../pics/01_FunctionsAndModels_1_4_9_Answer-2.jpg)
+
+## 11
+
+
