@@ -76,7 +76,7 @@
 
 ## 31d
 
-![FunctionsAndModels_1_4_31_Answer_d](../pics/01_FunctionsAndModels_1_4_31_Answer_d.png)
+![FunctionsAndModels_1_4_31_Answer_d](../pics/01_FunctionsAndModels_1_4_31_Answer_d.jpg)
 
 ## 35
 <ol type="a">
@@ -87,4 +87,4 @@
 
 ## 37
 
-![FunctionsAndModels_1_4_37_Answer](../pics/01_FunctionsAndModels_1_4_37_Answer.png)
+![FunctionsAndModels_1_4_37_Answer](../pics/01_FunctionsAndModels_1_4_37_Answer.jpg)
