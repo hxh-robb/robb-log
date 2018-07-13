@@ -58,7 +58,7 @@
 
 ## 1.4 Exercise
 
-TODO
+![1.4_33](../pics/01_FunctionsAndModels_1_4_33.png)
 
 ---
 
@@ -118,6 +118,23 @@ TODO
 <summary><strong>1.3 Exercises</strong></summary>
 
 * 1e,1f
+
+  TODO
+
+* 5a,5b
+
+  TODO
+
+* 21
+
+  TODO
+
+</details>
+
+<details>
+<summary><strong>1.4 Exercises</strong></summary>
+
+* 33
 
   TODO
 
