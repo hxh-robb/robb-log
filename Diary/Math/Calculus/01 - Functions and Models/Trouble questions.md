@@ -139,12 +139,4 @@
 
   TODO
 
-* 5a,5b
-
-  TODO
-
-* 21
-
-  TODO
-
 </details>
