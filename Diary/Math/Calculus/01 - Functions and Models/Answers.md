@@ -63,3 +63,28 @@
 
 ![FunctionsAndModels_1_4_11_13_15_Answer](../pics/01_FunctionsAndModels_1_4_11_13_15_Answer.png)
 
+## 27
+
+![FunctionsAndModels_1_4_27_Answer](../pics/01_FunctionsAndModels_1_4_27_Answer.png)
+
+## 29
+<ol type="a">
+  <li><img title="FunctionsAndModels_1_4_29_Answer_a" src="../pics/01_FunctionsAndModels_1_4_29_Answer_a.jpg"/></li><br>
+  <li><img title="FunctionsAndModels_1_4_29_Answer_b" src="../pics/01_FunctionsAndModels_1_4_29_Answer_b.jpg"/></li><br>
+  <li><img title="FunctionsAndModels_1_4_29_Answer_c" src="../pics/01_FunctionsAndModels_1_4_29_Answer_c.jpg"/></li>
+</ol>
+
+## 31d
+
+![FunctionsAndModels_1_4_31_Answer_d](../pics/01_FunctionsAndModels_1_4_31_Answer_d.png)
+
+## 35
+<ol type="a">
+  <li><img title="FunctionsAndModels_1_4_35_Answer_a" src="../pics/01_FunctionsAndModels_1_4_35_Answer_a.jpg"/></li><br>
+  <li><img title="FunctionsAndModels_1_4_35_Answer_b" src="../pics/01_FunctionsAndModels_1_4_35_Answer_b.jpg"/></li><br>
+  <li><img title="FunctionsAndModels_1_4_35_Answer_c" src="../pics/01_FunctionsAndModels_1_4_35_Answer_c.jpg"/></li>
+</ol>
+
+## 37
+
+![FunctionsAndModels_1_4_37_Answer](../pics/01_FunctionsAndModels_1_4_37_Answer.png)
