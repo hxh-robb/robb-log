@@ -58,7 +58,8 @@
 
 ## 1.4 Exercise
 
-![1.4_33](../pics/01_FunctionsAndModels_1_4_33.png)
+![1.4_33-1](../pics/01_FunctionsAndModels_1_4_33-1.png)
+![1.4_33-2](../pics/01_FunctionsAndModels_1_4_33-2.png)
 
 ---
 
