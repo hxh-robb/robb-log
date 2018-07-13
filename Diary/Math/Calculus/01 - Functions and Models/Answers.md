@@ -65,7 +65,7 @@
 
 ## 27
 
-![FunctionsAndModels_1_4_27_Answer](../pics/01_FunctionsAndModels_1_4_27_Answer.png)
+![FunctionsAndModels_1_4_27_Answer](../pics/01_FunctionsAndModels_1_4_27_Answer.jpg)
 
 ## 29
 <ol type="a">
